@@ -1,0 +1,189 @@
+@media (max-width:767px) {
+    .hero_banner_content h1 {
+        font-size: 36px;
+        line-height: 40px;
+
+    }
+
+    .hero_banner_content p {
+        font-size: 15px;
+        text-align: center;
+        padding: 0px 20px;
+    }
+
+    .hero_banner_content img {
+        width: 160px;
+        
+    }
+
+    .arrow {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    /* .arrow p{
+        display: none;
+    }  
+    Note:suppose User Tell Mobile Decive a not show this */
+
+    .arrow a img {
+        margin-top: 10px;
+        width: 29px;
+    }
+
+    .title_section {
+        padding: 40px 20px;
+    }
+
+    .title_section span {
+        letter-spacing: 1px;
+        font-size: 14px;
+    }
+
+    .title_section h2 {
+        font-size: 30px;
+        margin: 7px 0 15px;
+    }
+
+    .title_section p {
+        font-size: 15px;
+    }
+
+    .col-1-2 {
+        flex-basis: 100%;
+        max-width: 100%;
+
+    }
+
+    .feature_image img {
+        max-width: 80%;
+    }
+
+
+    .feature_content h3 {
+        font-size: 30px;
+    }
+
+    .feature_content {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+    }
+
+    .flex-colm {
+        flex-direction: column-reverse;
+    }
+
+    .feature_content p {
+        font-size: 17px;
+    }
+
+    .feature_content a {
+        font-size: 13px;
+
+
+    }
+
+    .btn {
+        padding: 9px;
+
+    }
+
+    /* --------------------------- */
+    .feature_image img {
+        max-width: 80%;
+    }
+
+    .feature_content_2nd {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+    }
+
+    .feature_content_2nd h3 {
+        font-size: 30px;
+    }
+
+    .feature_content_2nd a {
+        font-size: 13px;
+
+    }
+
+    .feature_content_2nd p {
+        font-size: 17px;
+        margin: 10px 0 30px;
+    }
+
+    .content h3 {
+        font-size: 32px;
+        text-align: center;
+    }
+
+    .content p {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .play_golf_image {
+        max-width: 53%;
+    }
+
+    .content span {
+        text-align: center;
+        letter-spacing: 1px;
+    }
+
+    .subscribe_box h2 {
+        font-size: 34px;
+        text-align: center;
+        padding: 0px 20px;
+    }
+
+    .subscribe_box p {
+        font-size: 15px;
+        text-align: center;
+        padding: 0px 10px;
+    }
+
+    .subscribe_box .email {
+        padding: 10px 20px;
+        font-size: 20px;
+        border: 0;
+    }
+
+    .subscribe_box .email {
+        padding: 10px 20px;
+        font-size: 20px;
+        border: 0;
+    }
+
+    .subscribe_box .email {
+        padding: 10px 20px;
+        font-size: 20px;
+        border: 0;
+    }
+
+    .subscribe_box {
+        height: auto;
+        justify-content: center;
+        padding: 60px 20px;
+        text-align: center;
+        
+    }
+    .subscribe_box .submit {
+        background-color: #176B3A;
+        padding: 10px 30px;
+        font-size: 20px;
+        margin-top: 5px;
+    }
+    .copyright p {
+        text-align: center;
+        padding: 8px 0px;
+        font-size: 12px;
+    }
+
+}
